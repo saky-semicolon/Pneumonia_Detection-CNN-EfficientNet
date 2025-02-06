@@ -81,3 +81,6 @@ pip install tensorflow keras opencv-python matplotlib numpy pandas
 
 ## Conclusion
 The custom CNN is recommended for deployment in resource-limited environments due to its 74% accuracy and rapid training (~5 minutes). While EfficientNet models underperformed here, further fine-tuning with larger datasets could enhance their utility. This project highlights the potential of deep learning to automate pneumonia diagnosis and reduce healthcare disparities.
+
+## Author: S M Asiful Islam Saky
+Thanks!
